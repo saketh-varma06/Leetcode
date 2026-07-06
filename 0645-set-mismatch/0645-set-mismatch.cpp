@@ -1,21 +1,21 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        unordered_map<int,int>mpp;
         int n=nums.size();
+        vector<int>count(n+1,0);
         vector<int>res;
         int sum=0;
         for(int i:nums){
-            mpp[i]++;
+            count[i]++;
+            sum+=i;
         }
-        for(auto it:mpp){
-            sum+=it.first;
-            if(it.second==2){
-                res.push_back(it.first);
+        for(int i=1;i<=n;i++){
+            if(count[i]==2){
+                res.push_back(i);
             }
         }
         int miss=(n*(n+1)/2)-sum;
-        res.push_back(miss);
+        res.push_back(miss+res[0]);
         return res;
     }
 };
