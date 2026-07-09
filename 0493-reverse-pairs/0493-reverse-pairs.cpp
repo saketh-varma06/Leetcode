@@ -29,7 +29,7 @@ public:
         int j=mid+1;
         int cnt=0;
         for(int i=low;i<=mid;i++){
-            while(j<=high && nums[i]>(long long)2*nums[j]) j++;
+            while(j<=high && nums[i]>2LL*nums[j]) j++;
             cnt+=(j-(mid+1));
         }
         return cnt;
