@@ -1,19 +1,42 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        long long n=nums.size();
-        long long sn=(n*(n+1))/2;
-        long long s2n=(n*(n+1)*(2*n+1))/6;
-        long long s=0,s2=0;
-        for(int i:nums){
-            s+=i;
-            s2+=(long long)i*(long long)i;
+        int xr=0;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            xr=xr^nums[i];
+            xr=xr^(i+1);
         }
-        long long val1=s-sn;
-        long long val2=s2-s2n;
-        val2=val2/val1;
-        long long x=(val1+val2)/2;
-        long long y=x-val1;
-        return {(int)x,(int)y};
+        int bitno=0;
+        while(1){
+            if((xr & (1<<bitno))!=0){
+                break;
+            }
+            bitno++;
+        }
+        int zero=0;
+        int one=0;
+        for(int i=0;i<n;i++){
+            if((nums[i] & (1<<bitno))!=0){
+                one=one^nums[i];
+            }
+            else{
+                zero=zero^nums[i];
+            } 
+        }
+        for(int i=1;i<=n;i++){
+            if((i & (1<<bitno))!=0){
+                one=one^i;
+            }
+            else{
+                zero=zero^i;
+            } 
+        }
+        int cnt=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==zero)   cnt++;
+        }
+        if(cnt==2)  return {zero,one};
+        return {one,zero};
     }
 };
