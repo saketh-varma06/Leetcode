@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saketh-varma06/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/saketh-varma06/Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
