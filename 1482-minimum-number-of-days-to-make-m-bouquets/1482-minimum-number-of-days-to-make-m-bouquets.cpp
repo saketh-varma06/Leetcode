@@ -15,7 +15,7 @@ public:
         return noofB>=m;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        long long val=m*1LL*k*1LL;
+        long long val=1LL*k*m;
         if(val>bloomDay.size())     return -1;
         int mini=INT_MAX,maxi=INT_MAX;
         for(int i=0;i<bloomDay.size();i++){
