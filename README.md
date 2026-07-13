@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/saketh-varma06/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saketh-varma06/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/saketh-varma06/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saketh-varma06/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saketh-varma06/Leetcode/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/saketh-varma06/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saketh-varma06/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/saketh-varma06/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/saketh-varma06/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saketh-varma06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saketh-varma06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
