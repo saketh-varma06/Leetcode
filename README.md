@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saketh-varma06/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/saketh-varma06/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/saketh-varma06/Leetcode/tree/master/0645-set-mismatch) |
+| [0875-koko-eating-bananas](https://github.com/saketh-varma06/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/saketh-varma06/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saketh-varma06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/saketh-varma06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/saketh-varma06/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saketh-varma06/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/saketh-varma06/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
