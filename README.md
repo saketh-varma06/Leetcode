@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/saketh-varma06/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saketh-varma06/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saketh-varma06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saketh-varma06/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/saketh-varma06/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saketh-varma06/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saketh-varma06/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saketh-varma06/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saketh-varma06/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
