@@ -1,12 +1,11 @@
 class Solution {
 public:
     bool candiesweallocate(vector<int>& candies,int mid,long long k){
-        int candy=1;
         long long cnt=0;
         for(int i=0;i<candies.size();i++){
             cnt+=(candies[i]/mid);
+            if(cnt>=k)   return true;
         }
-        if(cnt>=k)   return true;
         return false;
     }
     int maximumCandies(vector<int>& candies, long long k) {
