@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saketh-varma06/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saketh-varma06/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/saketh-varma06/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/saketh-varma06/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saketh-varma06/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saketh-varma06/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/saketh-varma06/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
 | ------- |
