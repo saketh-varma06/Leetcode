@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool ballsweplace(vector<int>& nums, int mid,int maxi){
-        int n=nums.size(),cntoperations=0;
+        int n=nums.size();
+        long long cntoperations=0;
         for(int i=0;i<n;i++){
             cntoperations+=(nums[i]-1)/mid;
         }
