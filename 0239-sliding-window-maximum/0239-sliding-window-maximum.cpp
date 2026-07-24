@@ -6,8 +6,8 @@ public:
         vector<int>ans;
         ans.reserve(n-k+1);
         deque<int>dq;
-        for(int i=0;i<n;i++){
-            if(!dq.empty() && dq.front() <=i-k){
+        for(int i=0;i<n;++i){
+            if(!dq.empty() && dq.front() ==i-k){
                 dq.pop_front();
             }
             while(!dq.empty() && nums[dq.back()]<=nums[i]){
