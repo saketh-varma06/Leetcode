@@ -32,16 +32,11 @@ public:
         delnext->prev=delprev;
     }
     int get(int key_) {
-        if(mpp.find(key_)!=mpp.end()){
-            node *resnode=mpp[key_];
-            int res=resnode->value;
-            mpp.erase(key_);
-            deletenode(resnode);
-            addnode(resnode);
-            mpp[key_]=head->next;
-            return res;
-        }
-        return -1;
+        if(mpp.find(key_)==mpp.end())   return -1;
+        node *resnode=mpp[key_];
+        deletenode(resnode);
+        addnode(resnode);
+        return resnode->value;
     }
     
     void put(int key_, int value) {
