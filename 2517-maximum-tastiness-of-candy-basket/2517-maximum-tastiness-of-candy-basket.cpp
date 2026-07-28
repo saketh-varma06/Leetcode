@@ -6,9 +6,10 @@ public:
             if(price[i]-last>=mid){
                 cnt++;
                 last=price[i];
+                if(cnt>=k)  return true;
             }
         }
-        return cnt>=k;
+        return false;
     }
     int maximumTastiness(vector<int>& price, int k) {
         sort(price.begin(),price.end());
