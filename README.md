@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saketh-varma06/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saketh-varma06/Leetcode/tree/master/0069-sqrtx) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saketh-varma06/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
 ## Interactive
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saketh-varma06/Leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/saketh-varma06/Leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
