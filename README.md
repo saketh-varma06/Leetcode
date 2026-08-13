@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saketh-varma06/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saketh-varma06/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saketh-varma06/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/saketh-varma06/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saketh-varma06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saketh-varma06/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saketh-varma06/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/saketh-varma06/Leetcode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Doubly-Linked List
