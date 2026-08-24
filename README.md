@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saketh-varma06/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saketh-varma06/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saketh-varma06/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saketh-varma06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saketh-varma06/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/saketh-varma06/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saketh-varma06/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/saketh-varma06/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/saketh-varma06/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saketh-varma06/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Recursion
