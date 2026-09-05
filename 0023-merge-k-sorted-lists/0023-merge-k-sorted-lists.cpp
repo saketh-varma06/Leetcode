@@ -23,7 +23,6 @@ public:
             }
             temp = temp->next;
         }
-
         if (list1 != nullptr)
             temp->next = list1;
         else
