@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/saketh-varma06/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saketh-varma06/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/saketh-varma06/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saketh-varma06/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/saketh-varma06/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/saketh-varma06/Leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/saketh-varma06/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0328-odd-even-linked-list) |
