@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saketh-varma06/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saketh-varma06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/saketh-varma06/Leetcode/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/saketh-varma06/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saketh-varma06/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/saketh-varma06/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/saketh-varma06/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saketh-varma06/Leetcode/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/saketh-varma06/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saketh-varma06/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/saketh-varma06/Leetcode/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saketh-varma06/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saketh-varma06/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/saketh-varma06/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Interactive
 |  |
 | ------- |
