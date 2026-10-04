@@ -8,7 +8,7 @@ public:
             diff=min(diff,10-diff);
             sum+=diff;
         }
-        int ans=sum,prefix=0;
+        int ans=sum;
         for(int k=0;k<n;k++){
             int sum2=sum;
             if(k==0){
