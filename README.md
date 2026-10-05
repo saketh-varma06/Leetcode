@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saketh-varma06/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/saketh-varma06/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/saketh-varma06/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saketh-varma06/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saketh-varma06/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/saketh-varma06/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/saketh-varma06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/saketh-varma06/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saketh-varma06/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/saketh-varma06/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/saketh-varma06/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saketh-varma06/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -424,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/saketh-varma06/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
