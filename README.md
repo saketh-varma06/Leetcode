@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saketh-varma06/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saketh-varma06/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saketh-varma06/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/saketh-varma06/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/saketh-varma06/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saketh-varma06/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saketh-varma06/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saketh-varma06/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saketh-varma06/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saketh-varma06/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saketh-varma06/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/saketh-varma06/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -437,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saketh-varma06/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saketh-varma06/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
