@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saketh-varma06/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/saketh-varma06/Leetcode/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saketh-varma06/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saketh-varma06/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saketh-varma06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saketh-varma06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
