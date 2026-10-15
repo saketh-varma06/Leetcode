@@ -1,12 +1,15 @@
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
-        int cnt=0,ans=0;
+        int ans=0;
         for(int i=0;i<nums.size();i++){
-            unordered_set<int>st;
+            bool st[101]={false};
+            int cnt=0;
             for(int j=i;j<nums.size();j++){
-                st.insert(nums[j]);
-                cnt=st.size();
+                if(!st[nums[j]]){
+                    st[nums[j]]={true};
+                    cnt++;
+                }
                 ans+=cnt*cnt;
             }
         }
