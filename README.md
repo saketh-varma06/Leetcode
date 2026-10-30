@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saketh-varma06/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/saketh-varma06/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saketh-varma06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/saketh-varma06/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saketh-varma06/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/saketh-varma06/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saketh-varma06/Leetcode/tree/master/0069-sqrtx) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saketh-varma06/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/saketh-varma06/Leetcode/tree/master/0071-simplify-path) |
