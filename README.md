@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/saketh-varma06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2643-row-with-maximum-ones](https://github.com/saketh-varma06/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saketh-varma06/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/saketh-varma06/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saketh-varma06/Leetcode/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/saketh-varma06/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saketh-varma06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saketh-varma06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saketh-varma06/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saketh-varma06/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
