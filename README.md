@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/saketh-varma06/Leetcode/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saketh-varma06/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/saketh-varma06/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/saketh-varma06/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/saketh-varma06/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saketh-varma06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/saketh-varma06/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
