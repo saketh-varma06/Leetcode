@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/saketh-varma06/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/saketh-varma06/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/saketh-varma06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3866-first-unique-even-element](https://github.com/saketh-varma06/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saketh-varma06/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/saketh-varma06/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saketh-varma06/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3866-first-unique-even-element](https://github.com/saketh-varma06/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/saketh-varma06/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0229-majority-element-ii) |
+| [3866-first-unique-even-element](https://github.com/saketh-varma06/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Union-Find
 |  |
 | ------- |
