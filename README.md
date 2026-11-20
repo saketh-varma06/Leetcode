@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saketh-varma06/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saketh-varma06/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saketh-varma06/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saketh-varma06/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saketh-varma06/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/saketh-varma06/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saketh-varma06/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/saketh-varma06/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saketh-varma06/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saketh-varma06/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1552-magnetic-force-between-two-balls](https://github.com/saketh-varma06/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saketh-varma06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/saketh-varma06/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/saketh-varma06/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saketh-varma06/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saketh-varma06/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saketh-varma06/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/saketh-varma06/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saketh-varma06/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
