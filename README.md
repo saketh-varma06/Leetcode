@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saketh-varma06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/saketh-varma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saketh-varma06/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/saketh-varma06/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saketh-varma06/Leetcode/tree/master/0056-merge-intervals) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saketh-varma06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/saketh-varma06/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/saketh-varma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/saketh-varma06/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saketh-varma06/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/saketh-varma06/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saketh-varma06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/saketh-varma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saketh-varma06/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/saketh-varma06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/saketh-varma06/Leetcode/tree/master/0118-pascals-triangle) |
