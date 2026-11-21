@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saketh-varma06/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saketh-varma06/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/saketh-varma06/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saketh-varma06/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/saketh-varma06/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/saketh-varma06/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saketh-varma06/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/saketh-varma06/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/saketh-varma06/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saketh-varma06/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/saketh-varma06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saketh-varma06/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saketh-varma06/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saketh-varma06/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saketh-varma06/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/saketh-varma06/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saketh-varma06/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/saketh-varma06/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saketh-varma06/Leetcode/tree/master/0268-missing-number) |
