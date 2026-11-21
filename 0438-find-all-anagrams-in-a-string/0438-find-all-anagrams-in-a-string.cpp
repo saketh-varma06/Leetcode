@@ -1,36 +1,27 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        unordered_map<int,int>mpp;
-        unordered_map<int,int>pp;
-        vector<int>res;
-        int l=0,r=0;
+        vector<int> res;
         if (p.size() > s.size()) return res;
-        for(auto ch:p){
-            pp[ch]++;
-        }
-        while(r<p.size()){
-            mpp[s[r]]++;
+        vector<int> win(26, 0), pat(26, 0);
+        for (char ch : p)
+            pat[ch - 'a']++;
+
+        int l = 0, r = 0;
+        while (r < p.size()) {
+            win[s[r] - 'a']++;
             r++;
         }
-        if(mpp==pp){
+        if (win == pat)
             res.push_back(l);
-        }
         while (r < s.size()) {
-            mpp[s[r]]++;          
-            mpp[s[l]]--;          
-
-            if (mpp[s[l]] == 0)
-                mpp.erase(s[l]);  
-
+            win[s[r] - 'a']++;   
+            win[s[l] - 'a']--;  
             l++;
             r++;
-
-            if (mpp == pp) {
+            if (win == pat)
                 res.push_back(l);
-            }
         }
-
         return res;
     }
 };
