@@ -8,9 +8,5 @@ class Solution:
             return
         k%=n
         nums.reverse()
-        temp=nums[:k]
-        temp.reverse()
-        nums[:k]=temp
-        temp2=nums[k:]
-        temp2.reverse()
-        nums[k:]=temp2
+        nums[:k]=reversed(nums[:k])
+        nums[k:]=reversed(nums[k:])
